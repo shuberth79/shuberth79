@@ -2,7 +2,6 @@
 <h1 align="center">>>> Bienvenido a mi Github <<<</h1>
 
 **Developer** | **Data Analytics** | **Fotografo** | **Architect** | **Research Ciudades y sostenibilidad**
----
   
 Soy una persona honesta, entusiasta y humanista , con 7 años de experiencia multidisciplinar que me han proporcionado una visión integral. He contribuido activamente en investigación, consultoría y enseñanza en Arquitectura, estudios urbanos, sostenibilidad y análisis de datos, siempre en entornos que fomentan la proactividad, colaboración y creatividad . Mi objetivo actual es potenciar mis competencias y habilidades digitales en Data Analytics, desarrollo y arquitectura Cloud 
 
