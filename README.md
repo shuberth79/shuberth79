@@ -2,7 +2,7 @@
 # HOLA 👋
   ---
 # >>> Bienvenido a mi Github <<<
----
+
 **Developer Software** | **Data Analytics** | **Fotografo** | **Architect** | **Research Ciudades y sostenibilidad**
 ---
 
