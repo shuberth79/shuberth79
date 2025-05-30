@@ -4,9 +4,8 @@
 **Developer** | **Data Analytics** | **Fotografo** | **Architect** | **Research Ciudades y sostenibilidad**
 ---
   
-Soy una persona honesta, entusiasta y humanista, tengo 7 años en experiencia en diversos ámbitos que me han ayudado a tener una visión integral
-he participado en investigación y consultoría sobre estudios urbanos, sosteniblidad y analisis de datos, en entornos con dinámicas de proactividad, colaboración y creatividad, en la actualidad aspiro potenciar    mis competencias y habilidades digitales en Data Analytics, desarrollo y arquitectura Cloud. 
-</p>
+Soy una persona honesta, entusiasta y humanista , con 7 años de experiencia multidisciplinar que me han proporcionado una visión integral. He contribuido activamente en investigación, consultoría y enseñanza en Arquitectura, estudios urbanos, sostenibilidad y análisis de datos, siempre en entornos que fomentan la proactividad, colaboración y creatividad . Mi objetivo actual es potenciar mis competencias y habilidades digitales en Data Analytics, desarrollo y arquitectura Cloud 
+
 
 <!--
 **shuberth79/shuberth79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
