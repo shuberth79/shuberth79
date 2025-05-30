@@ -1,10 +1,10 @@
 ## Hi there 👋
-𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 | 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 | 𝗙𝗼𝘁𝗼𝗴𝗿𝗮𝗳𝗼 | 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁 | 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 Ciudades y sostenibilidad
+**Developer Software** | **Data Analytics** | **AWS** | **Fotografo** | **Architect** | **Research Ciudades y sostenibilidad**
 
-Soy una persona honesta, entusiasta y humanista, tengo 7años en experiencia trabajando en
-investigación y consultorias de estudios urbanos, sosteniblidad y analisis de datos. He desarrollado
-dinámicas de proactividad, colaboración y creatividad, en la actualidad aspiro potenciar mis
-competencias y habilidades digitales en Data Analytics, desarrollo y arquitectura Cloud. 
+Soy una persona honesta, entusiasta y humanista, tengo 7 años en experiencia en diversos ámbitos que me han ayudado a tener una visión integral
+he participado en investigación y consultoría sobre estudios urbanos, sosteniblidad y analisis de datos, en entornos con dinámicas de proactividad, colaboración y creatividad, en la actualidad aspiro potenciar mis competencias y habilidades digitales en Data Analytics, desarrollo y arquitectura Cloud. 
+
+
 
 <!--
 **shuberth79/shuberth79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
