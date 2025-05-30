@@ -1,9 +1,6 @@
 <h1 align="center">HOLA 👋</h1>
 <h1 align="center">>>> Bienvenido a mi Github <<<</h1>
-  
-# HOLA 👋
-  
-# >>> Bienvenido a mi Github <<<
+
 **Developer** | **Data Analytics** | **Fotografo** | **Architect** | **Research Ciudades y sostenibilidad**
 ---
   
