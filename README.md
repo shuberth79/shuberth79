@@ -1,5 +1,6 @@
 ## Hi there 👋
 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 | 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 | 𝗙𝗼𝘁𝗼𝗴𝗿𝗮𝗳𝗼 | 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁 | 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 Ciudades y sostenibilidad
+
 Soy una persona honesta, entusiasta y humanista, tengo 7años en experiencia trabajando en
 investigación y consultorias de estudios urbanos, sosteniblidad y analisis de datos. He desarrollado
 dinámicas de proactividad, colaboración y creatividad, en la actualidad aspiro potenciar mis
