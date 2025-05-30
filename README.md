@@ -1,13 +1,13 @@
 <p align="center">
   
-# HOLA 👋
-
-# >>> Bienvenido a mi Github <<<
-**Developer Software** | **Data Analytics** | **Fotografo** | **Architect** | **Research Ciudades y sostenibilidad**
----
-
-Soy una persona honesta, entusiasta y humanista, tengo 7 años en experiencia en diversos ámbitos que me han ayudado a tener una visión integral
-he participado en investigación y consultoría sobre estudios urbanos, sosteniblidad y analisis de datos, en entornos con dinámicas de proactividad, colaboración y creatividad, en la actualidad aspiro potenciar mis competencias y habilidades digitales en Data Analytics, desarrollo y arquitectura Cloud. 
+  # HOLA 👋
+  
+  # >>> Bienvenido a mi Github <<<
+  **Developer** | **Data Analytics** | **Fotografo** | **Architect** | **Research Ciudades y sostenibilidad**
+  ---
+  
+  Soy una persona honesta, entusiasta y humanista, tengo 7 años en experiencia en diversos ámbitos que me han ayudado a tener una visión integral
+  he participado en investigación y consultoría sobre estudios urbanos, sosteniblidad y analisis de datos, en entornos con dinámicas de proactividad, colaboración y creatividad, en la actualidad aspiro potenciar mis competencias y habilidades digitales en Data Analytics, desarrollo y arquitectura Cloud. 
 
 </p>
 
